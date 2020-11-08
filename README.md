@@ -1,2 +1,2 @@
 # Image_Captioning_Pytorch
-Auto Captioning of Images
+Auto Caption Generation of Images
