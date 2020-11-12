@@ -7,7 +7,23 @@
 </p>
 </div>
 
-> Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions. Deep Learning using CNNs-LSTMs can be used to solve this problem of generating a caption for a given image, hence the name Image Captioning.
+**Image Captioning is the process of generating textual description of an image. It uses both *Natural Language Processing and Computer Vision* to generate the captions. Deep Learning using *CNNs-LSTMs* can be used to solve this problem of generating a caption for a given image, hence called Image Captioning.**
+
+## <div align="center"> ⌛Output that we get💻
+<p align='center'> 
+ <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/correct1.png" />
+ <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/correct2.png" /> 
+</p>
+</div> 
+
+### <div align="center"> There's a lot of biasing as well, since training data wasn't big enough!</div>
+
+<p align='center'> 
+ <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/bias1.png" />
+ <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/bias2.png" /> 
+</p>
+ 
+ ### <div align="center"> 🖐️LETS TAKE A QUICK DIVE INTO THIS MAGIC!😇</div>
 
 ## Dataset:
 - Flickr 8k (containing 8k images), 
@@ -33,6 +49,7 @@
  
  <p align='center'> 
  <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/lstm.png" />
+ <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/summary.png" />
 </p>
 </div>
 
@@ -42,4 +59,6 @@
   <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/flow.png" />
   </p>  
  </div>
+ 
+ 
  
