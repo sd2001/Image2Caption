@@ -23,7 +23,7 @@
  <img src="https://github.com/sd2001/Auto-Image2Caption/blob/main/bias2.png" /> 
 </p>
  
- ### <div align="center"> 🖐️LETS TAKE A QUICK DIVE INTO THIS MAGIC!😇</div>
+ ## <div align="center"> 🖐️LETS TAKE A QUICK DIVE INTO THIS MAGIC!😇</div>
 
 ## Dataset:
 - Flickr 8k (containing 8k images), 
