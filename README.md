@@ -60,5 +60,14 @@
   </p>  
  </div>
  
+ ## References and Bibliography:
+- https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+- https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2
+- https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/
+- https://www.youtube.com/watch?v=NmoW_AYWkb4
+- https://www.kaggle.com/shadabhussain/automated-image-captioning-flickr8
+
+## Paper
+- https://arxiv.org/abs/1411.4555
  
  
